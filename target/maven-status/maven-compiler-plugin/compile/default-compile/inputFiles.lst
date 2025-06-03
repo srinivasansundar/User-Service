@@ -1,0 +1,10 @@
+C:\microservices\User-Service\src\main\java\com\example\userservice\model\User.java
+C:\microservices\User-Service\src\main\java\com\example\userservice\Exception\GlobalExceptionHandler.java
+C:\microservices\User-Service\src\main\java\com\example\userservice\Exception\UserError.java
+C:\microservices\User-Service\src\main\java\com\example\userservice\UserserviceApplication.java
+C:\microservices\User-Service\src\main\java\com\example\userservice\repository\UserRepository.java
+C:\microservices\User-Service\src\main\java\com\example\userservice\controller\UserController.java
+C:\microservices\User-Service\src\main\java\com\example\userservice\Exception\UserNotFoundException.java
+C:\microservices\User-Service\src\main\java\com\example\userservice\Exception\ConcreteErrorResponse.java
+C:\microservices\User-Service\src\main\java\com\example\userservice\service\impl\UserServiceImpl.java
+C:\microservices\User-Service\src\main\java\com\example\userservice\service\UserService.java
